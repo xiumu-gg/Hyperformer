@@ -1,0 +1,100 @@
+royalty.system_title_relationship	01g4b2	04fg4b
+travel.travel_destination_monthly_climate	05l64	04w_7
+music.concert_performance	01hvnw	04v6jw0	0394y
+music.concert_performance	02v1vq	04v6jw0	0394y
+music.concert_performance	0k1bs	04v6jw0	0394y
+base.nascar.nascar_race_result	02llzy	02z15g1
+base.nascar.nascar_race_result	05q0x7	05cw4h5
+freebase.list_entry	0bscw	05bq3h3
+theater.theater_production_staff_gig	0v2rr8h	0n9q4t0	02y6fz
+base.nascar.nascar_race_result	05jb3t	05c8mzb
+travel.travel_destination_monthly_climate	05l64	04wzr
+base.marchmadness.ncaa_tournament_seed	02qk2d5	0b_6v_
+sports.sports_league_draft_pick	065cll	05krk	05g3v	03nt7j
+award.ranking	0h6cmxy	0g8fs
+royalty.system_title_relationship	024yh8	02809x
+cvg.musical_game_song_relationship	0797rd3	026kds	0fq74z3
+base.nascar.nascar_race_result	07fwcj	05cw4hn
+business.sponsorship	07qp8x	026ltdq
+base.nascar.nascar_race_result	0512c1	05cr7yc
+user.ungzd.default_domain.eurovision_vote	03spz	02vzc
+sports.sports_team_season_record	07f83f	04nmxtk
+base.nascar.nascar_race_result	09mt_z	05crl_d
+baseball.baseball_team_stats	02h7s6b	0x2p
+film.film_crew_gig	03yvvdp	04mcw4	03yvvfy
+basketball.basketball_player_stats	08s093	01l_v5	0jmfb
+user.szaijan.fantasy_football.projection	02sj2gw	0855sw	02sjlml
+music.track_contribution	0290ngj	0mp4c
+baseball.baseball_team_stats	02h7s6b	03m1n
+american_football.game_receiving_statistics	07dln9x	0cwmrj
+base.ontologies.ontology_instance_mapping	04dm2p_	05qtj
+tennis.tennis_tournament_championship	062psk	069d68
+computer.software_compatibility	02_b8w3	085j0
+tennis.tennis_match	0bbwvqy	012xcl	03b7gw
+cvg.musical_game_song_relationship	0177d9m	026kds	0fq74z3
+cvg.musical_game_song_relationship	0177d9m	067gh	0fq74z3
+basketball.basketball_player_stats	08_vqd	07q38w	0jm3b
+base.marchmadness.ncaa_tournament_seed	02853nt	0b_6v_
+base.marchmadness.ncaa_tournament_seed	05cf7kb	0b_5vw
+base.nascar.nascar_race_result	033h2v	05cw4hn
+soccer.football_team_management_tenure	05hzj9	03hlsvp
+american_football.game_receiving_statistics	07dln9x	02h6xh
+baseball.baseball_team_stats	02h7s6b	05xvj
+baseball.baseball_team_stats	02h7s6b	01ypc
+american_football.player_game_statistics	091qw1	04y6_qr
+military.military_command	0f8l9c	0845v	04pwg
+broadcast.tv_affiliation_duration	0187wh	0cppqs
+american_football.player_receiving_statistics	04y6_qr	05w12d
+base.ontologies.ontology_instance_mapping	04dm2p_	05qw5
+freebase.list_entry	05qtj	059s3x2
+american_football.game_rushing_statistics	02qdp4v	0793bmj
+music.recording_contribution	09ghwvt	026t6	07kgrsb
+book.periodical_publisher_period	0b5cx5	069gxd
+tv.tv_program_writer_relationship	09v6gc9	0h3mh3q
+business.sponsorship	075snr2	04xxy1
+cvg.musical_game_song_relationship	0y__8j	067gh	0fq74z3
+american_football.game_receiving_statistics	07dlp0g	02qwkw2
+base.schemastaging.team_training_ground_relationship	023fb	0gg4bpx
+base.surfing.asp_world_tour_rating	0550tml	07zs9fl
+base.nascar.nascar_race_result	05jb1l	05cbtvz
+tennis.tennis_tournament_championship	062ptd	01s25n
+user.szaijan.fantasy_football.projection	02sj2gw	02h6xh	02sjlml
+cvg.musical_game_song_relationship	03s04r	067gh	0fq74z3
+cvg.musical_game_song_relationship	03s04r	02plp2	0fq74z3
+film.film_regional_release_date	02vzc	05sxr_
+base.schemastaging.athlete_salary	01y49	09nqf	051xvxm
+music.recording_contribution	02mx98	026t6	038dlf
+base.nascar.nascar_race_result	053wl0	0772q5w
+cvg.musical_game_song_relationship	03s04r	067gh	04kbkd1
+cvg.musical_game_song_relationship	03s04r	02plp2	04kbkd1
+military.military_combatant_group	03_dw_	07ssc
+tv.tv_crew_gig	0hgxt34	075vxk4	0hh5r_v
+base.handball.handball_team_match_participation	075zjpw	0ck5p0_
+organization.organization_membership	0d0vqn	02t63
+freebase.list_entry	012vd6	059v5hy
+tennis.tennis_tournament_championship	0l6c9	03wc52
+computer.software_compatibility	02_b8w3	02pxwz1
+base.nascar.nascar_race_result	05p89l	05c8tw9
+theater.theater_designer_gig	02hsh8d	0k3gghh	0vsq_lw
+base.trixtypes.stat	0c0dfly	0c06qh6
+soccer.football_team_manager_match_participation	0c0xqws	03_44z	08h2zg
+basketball.basketball_player_stats	080kw1	07cl3j	0jmcb
+book.contents	0b03m07	09kbn7c
+cvg.musical_game_song_relationship	0w7ll5	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0w7ll5	026kds	04kbkd1
+opera.opera_character_voice	0lzv7	03dnz
+american_football.game_receiving_statistics	0791vss	04llqf
+basketball.basketball_player_stats	09hqyn	08jqn8	0jm7n
+tv.tv_program_writer_relationship	07vfnb	0pgcm
+sports.sports_team_season_record	074w7v	01c_d
+location.location_symbol_relationship	05fhy	0j749
+base.surfing.asp_world_tour_rating	0550tml	07rfpg
+theater.theater_designer_gig	0181qd	027svch	02hshrt
+sports.sports_team_season_record	07mpzjd	075zhk3
+tv.tv_program_writer_relationship	0465pc4	07g9f
+olympics.olympic_medal_honor	0jdk_	0chghy	03dcs_	02r2_87
+book.contents	08g9_s6	09kbn7c
+theater.theater_designer_gig	0181qd	0278bv_	0k2z670
+base.nascar.nascar_race_result	02llzy	02prcps
+base.marchmadness.ncaa_tournament_seed	0579h0q	0b_6h7
+tennis.tennis_tournament_championship	062pwg	031hk4

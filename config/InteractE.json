@@ -1,0 +1,24 @@
+{
+	"dataset": "GUO",
+	"model": "InteractE",
+	"batch_size": 128,
+	"neg_ratio": 10,
+	"num_iterations": 1000,
+	"best_model": null,
+	"pretrained": null,
+	"learning_rate": 0.01,
+	"restartable": false,
+	"max_arity": 6,
+	"model_hyper_params": {
+        "emb_dim": 100,
+		"R_external_dim": 100,
+		"perm": 5,
+        "k_w": 10,
+        "k_h": 10,
+        "ker_sz": 8,
+		"num_ft":96,
+        "inp_drop": 0.2,
+        "feature_map_drop": 0.2,
+        "hidden_drop": 0.2
+	}
+}

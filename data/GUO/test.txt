@@ -1,0 +1,100 @@
+cvg.musical_game_song_relationship	01cz4n8	02plp2	06ztwyd
+cvg.musical_game_song_relationship	01cz4n8	066kp	06ztwyd
+tennis.tennis_tournament_championship	0l6c9	0hgst
+cvg.game_performance	0136wj	0127pstj	03jmmn
+base.nascar.nascar_race_result	03vthz	04jdz7h
+base.conservationaction.documented_priority_species	052n64	04svjys	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	02ddh1	04svjys	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	07dd_2	04svjys	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	0202_7	04svjys	05lvpg6	05mcc0l
+cvg.game_performance	02vvtz1	0cj2vnc	025tt3t
+base.webvideo.internet_video_producer_credit	0ybzng_	0jy_rq
+baseball.baseball_team_stats	02h7s31	05g76
+american_football.game_passing_statistics	0bmqgn	07dltbp
+base.thoroughbredracing.horse_trainer_relationship	04n3z6h	026tp5v
+tv.tv_network_duration	0103cdx3	01nzs7
+baseball.baseball_team_stats	02h7s31	05knftf
+computer.software_compatibility	04135ph	04r_8
+user.szaijan.fantasy_football.projection	02sj2gw	04nt4c	02sjlml
+base.popstra.party_attendance_person	01vs_v8	063wcpl
+architecture.ownership	038hjg	09f2j
+base.productplacement.product_placement	01npcx	03y8r7
+soccer.football_player_match_participation	02ltg3	0d4bh2	0c22yrt
+american_football.player_rushing_statistics	061xj2	03gqdq7
+cvg.musical_game_song_relationship	017pnsn	067gh	06ztwyd
+cvg.musical_game_song_relationship	017pnsn	066kp	06ztwyd
+soccer.football_player_match_participation	02ltg3	073kk7	0c22yrt
+music.group_membership	0290ngj	01w35q_	01p7k02
+music.group_membership	0342h	01w35q_	01p7k02
+cvg.musical_game_song_relationship	017pnsn	067gh	0642v9q
+cvg.musical_game_song_relationship	017pnsn	066kp	0642v9q
+cvg.musical_game_song_relationship	01cz4n8	067gh	0642v9q
+cvg.musical_game_song_relationship	01cz4n8	026kds	0642v9q
+soccer.football_player_match_participation	02ltg3	0gf43t	0c22yrt
+soccer.football_player_match_participation	02ltg3	026f01y	0c22yrt
+base.patronage.patron_client_relationship	0bpg0q	08n3t3
+base.conservationaction.documented_priority_species	0240_l	04svjys	05lvpg6	05mcc0l
+base.popstra.vacation_choice	05qtj	019pm_
+base.conservationaction.documented_priority_species	025yw4b	04svjys	05lvpg6	05mcc0l
+base.militaryinfiction.military_command_in_fiction	0bxj80p	0cj9dk1	0dggv64	0dc60vr	0chzk_3
+base.militaryinfiction.military_command_in_fiction	0bxj80p	0cj9dk1	0dggvhh	0dc60vr	0chzk_3
+base.militaryinfiction.military_command_in_fiction	0bxj80p	0cj9dk1	0dggv4m	0dc60vr	0chzk_3
+cvg.musical_game_song_relationship	05gt4j	02plp2	04kbkd1
+cvg.musical_game_song_relationship	05gt4j	026kds	04kbkd1
+cvg.musical_game_song_relationship	05gt4j	067gh	04kbkd1
+base.nascar.nascar_race_result	06t1wt	04crfyc
+sports.sports_team_season_record	082dpv	06mpwv_
+base.marchmadness.ncaa_tournament_seed	0k0qbcs	0b_5rc
+baseball.baseball_team_stats	02h7s31	01yjl
+film.dubbing_performance	02h40lc	0409pl	02w5tqb	0b7wjw
+award.category_ceremony_relationship	0znl0lx	0wzry2t
+user.tsegaran.random.taxonomy_entry	034rd	04n6k
+film.film_cut	03_3d	07lzw_
+base.ontologies.ontology_instance_mapping	04dm2p_	02k54
+base.popstra.vacation_choice	0r0m6	0993r
+travel.travel_destination_monthly_climate	036g_r	02xx5
+soccer.football_player_match_participation	02ltg3	0gf0_v	0c22yrt
+base.productplacement.product_placement	0gcpc	01hddb
+music.conducting_tenure	05mcb0	014hr0
+royalty.noble_title_tenure	05ywhkd	0ly54
+baseball.baseball_team_stats	041105l	05fc8c9
+business.sponsorship	0cqvcp	026ltdq
+book.contents	05pzhsm	02qwfv5
+base.conservationaction.documented_priority_species	025dpb	04svjy9	05lvpg6	05mcc0l
+olympics.olympic_athlete_affiliation	07ssc	01clcs	0jhn7
+film.film_regional_release_date	03rjj	05p49l5
+sports.sports_team_season_record	07f6s7	04nmxtk
+broadcast.tv_affiliation_duration	0hh6l	09pynn
+business.sponsorship	074665l	03sdzf
+baseball.batting_statistics	01d5z	026fmqm	0232ms
+baseball.baseball_team_stats	02h7s36	07l4z
+baseball.baseball_team_stats	02h7s1t	01yjl
+travel.travel_destination_monthly_climate	052p7	028kb
+basketball.basketball_player_stats	08hn_f	020ntr	0jmfb
+baseball.baseball_team_stats	02h7s36	02d02
+base.nascar.nascar_race_result	05jltj	05crlxg
+base.ontologies.ontology_instance_mapping	04dm2p_	086qd
+soccer.football_player_substitution	054kmq	0c0xk97	0283mjy
+people.marriage	02xbw2	0f2v0
+people.marriage	03l295	0f2v0
+music.conducting_tenure	02r38	014hr0
+sports.sports_league_participation	010p68mq	010p684l	010p6brt	0fhlpd
+military.military_combatant_group	02623n7	09c7w0
+organization.organization_membership	04q9s5p	08g8zg
+book.contents	04trv6k	0bvmx8
+soccer.football_player_match_participation	0cnk2q	0g3cl0	0c1srnl
+basketball.basketball_player_stats	0993hq	027b9l7	0jm7n
+american_football.game_rushing_statistics	02qxmd6	0792_5w
+base.nascar.nascar_race_result	026fx	05crm0m
+baseball.baseball_team_stats	04111m9	05ll5_5
+american_football.game_receiving_statistics	07dlnx3	03tlls
+american_football.game_rushing_statistics	02w3v66	07dlt77
+location.partial_containment_relationship	03rk0	02vqbst
+baseball.baseball_team_stats	02h7s36	051vz
+computer.software_compatibility	09ytsl	06d4fz
+baseball.baseball_team_stats	02h7s1t	051wf
+sports.sports_team_season_record	07mpzgt	075zjnc
+american_football.player_rushing_statistics	09l79k	03gqdq7
+sports.sports_team_coach_tenure	03cv3qn	0frm7n
+theater.theater_designer_gig	0b787yg	0kf9m1g	0rypl1f
+award.ranking	027v2mn	08ct6
